@@ -46,7 +46,7 @@ Install All the dependencies using `npm i`.<br>
 
 Replace the token with your token in `routes/dashboard.js` at 22 line.<br>
 
-Start the app using `nodemon index`
+Start the app using `nodemon index` or `node index`
 
 Now go to <a href="http://localhost:3000/">localhost:3000</a> and explore each and every feature of <b>E-Doctor</b>
 
