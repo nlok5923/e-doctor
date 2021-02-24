@@ -37,11 +37,10 @@ then go to <a href="https://sandbox-authservice.priaid.ch/docs.html">here.</a> a
 Enter your email as username and sandbox password as password and click on generate Token.</p>
 
 <h5>Step To Download Code</h5>
-<p>Clone this repo using <b>git clone https://github.com/The-Keshav-Agarwal/api-digest-2021.git</b></p>
+<p>Clone this repo using <b>git clone this repo</b></p>
 
-Change branch to `team#6` using `git checkout team#6`<br>
 
-Change Directory to `api-digest-2021/team$6 - {2}`, using `cd "api-digest-2021/team#6 - {2}"`<br>
+Change Directory to `e-doctor`, using `cd e-doctor`<br>
 
 Install All the dependencies using `npm i`.<br>
 
